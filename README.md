@@ -17,3 +17,19 @@ Config ST3
 	]
 	
 }
+
+
+
+- BracketHighlighter
+- DocBlockR
+- Emmet
+- Git
+- GitHub Tools
+- HTML5
+- Package Control
+- Predawn
+- PyV8
+- SideBarenhancement
+- SublimeCodeIntel
+- SublimeLinter
+- Javacript Completion
